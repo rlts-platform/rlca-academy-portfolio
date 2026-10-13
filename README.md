@@ -37,3 +37,16 @@ The platform's planned technology stack includes:
 RLCA Academy V2 is in its rebuild and planning stage. The current focus is establishing the minimum viable product (MVP) and defining the core functionality needed to support the academy's vision.
 
 The long-term goal is to create a flexible educational platform that supports Christian-centered homeschooling, entrepreneurial development, and practical preparation for the future.
+
+## Source Code & Intellectual Property Notice
+
+This public repository is a project overview, not a release of the complete application. RLCA Academy V2 is still being rebuilt, and a review-safe source excerpt has not been prepared from the designated V2 repository. The full source and educational materials are not being offered for public reuse.
+
+All rights are reserved. This repository does not grant permission to copy, redistribute, modify, or use proprietary materials without prior written permission. No credentials, student records, or live environment files are intentionally included.
+
+
+## Source Code & Intellectual Property Notice
+
+This public repository is a limited portfolio showcase, not a release of the complete commercial application. Selected examples are provided to demonstrate project structure, implementation approach, and development work. Significant proprietary workflows, full application source, backend logic, and integrations are intentionally kept private because these products represent substantial original work developed for commercial use.
+
+All rights are reserved. This showcase does not grant permission to copy, redistribute, modify, or incorporate its code into another product without prior written permission. No production credentials, API keys, customer records, or live environment files are intentionally included. Some examples are sanitized or adapted for public review and may omit private dependencies; they are not a complete, production-ready application.
